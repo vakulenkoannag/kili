@@ -1,0 +1,912 @@
+﻿;#;FORM;LEMMA;GRAM;COMMENT;CHECKED;RIGHT1;RIGHT2;RIGHT3;RIGHT4;RIGHT5;RIGHT6;POS;AUTO_LEMMA;AUTO_GRAM
+8939;#doc=cinematograph.2.txt;;;;;;;;;;;;;;
+8940;1;Людмила;ЛЮДМИЛА;S persn f anim nom sg;;+;а;л;и;м;д;ю;S;ЛЮДМИЛА;S f anim nom sg
+8941;2;@;@;PUNC;;+;;;;;;;PUNC;@;PUNC
+8942;3;:;:;PUNC;;+;;;;;;;PUNC;:;PUNC
+8943;4;Начинать;НАЧИНАТЬ;V tran ipf inf act;;+;ь;т;а;н;и;ч;V;НАЧИНАТЬ;V ipf - - inf - -
+8944;5;?;?;SENT;;+;;;;;;;SENT;?;SENT
+8945;;;;;;+;;;;;;;;;
+8946;1;Кхм;КХМ;INTJ;;+;м;х;к;;;;NONLEX;КХМ;NONLEX
+8947;2;.;.;SENT;;+;;;;;;;SENT;.;SENT
+8948;;;;;;+;;;;;;;;;
+8949;1;Хочу;ХОТЕТЬ;V tran ipf praes sg indic act - 1p;;+;у;ч;о;х;;;V;ХОТЕТЬ;V ipf praes sg indic - 1p
+8950;2;поговорить;ПОГОВОРИТЬ;V intr pf inf indic;;+;ь;т;и;р;о;в;V;ПОГОВОРИТЬ;V pf - - inf - -
+8951;3;о;О;PR;;+;о;;;;;;PR;О;PR
+8952;4;кино;КИНО;S n inan 0 sg loc;;+;о;н;и;к;;;S;КИНО;S n inan nonflex nonflex
+8953;5;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+8954;6;даже;ДАЖЕ;PART;;+;е;ж;а;д;;;PART;ДАЖЕ;PART
+8955;7;не;НЕ;PART;;+;е;н;;;;;PART;НЕ;PART
+8956;8;столько;СТОЛЬКО;ADV;;+;о;к;ь;л;о;т;NUM;СТОЛЬКО;NUM acc - -
+8957;9;о;О;PR;;+;о;;;;;;PR;О;PR
+8958;10;кино;КИНО;S n inan 0 sg loc;;+;о;н;и;к;;;S;КИНО;S n inan nonflex nonflex
+8959;11;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+8960;12;а;А;CONJ;;+;а;;;;;;CONJ;А;CONJ
+8961;13;сколько;СКОЛЬКО;ADV;;+;о;к;ь;л;о;к;ADV;СКОЛЬКО;ADV -
+8962;14;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+8963;15;эмм;ЭМ;INTJ;;+;м;м;э;;;;S;ЭММА;S f anim acc pl
+8964;16;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+8965;17;от...;ОТ...;PR;distort;+;;;;т;о;;PR;ОТ...;PR
+8966;18;ой;ОЙ;INTJ;;+;й;о;;;;;INTJ;ОЙ;INTJ
+8967;19;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+8968;20;о;О;PR;;+;о;;;;;;PR;О;PR
+8969;21;своём;СВОЙ;APRO loc sg n;;+;м;ё;о;в;с;;A;СВОЙ;A - loc sg plen n -
+8970;22;увлечении;УВЛЕЧЕНИЕ;S n inan loc sg;;+;и;и;н;е;ч;е;S;УВЛЕЧЕНИЕ;S n inan loc sg
+8971;23;в;В;PR;;+;в;;;;;;PR;В;PR
+8972;24;детстве;ДЕТСТВО;S n inan loc sg;;+;е;в;т;с;т;е;S;ДЕТСТВО;S n inan loc sg
+8973;25;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+8974;26;эээ;Э;INTJ;;+;э;э;э;;;;NONLEX;ЭЭЭ;NONLEX
+8975;27;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+8976;28;артистами;АРТИСТ;S m anim ins pl;;+;и;м;а;т;с;и;S;АРТИСТ;S m anim ins pl
+8977;29;.;.;SENT;;+;;;;;;;SENT;.;SENT
+8978;;;;;;+;;;;;;;;;
+8979;1;Вообще;ВООБЩЕ;PARENTH ;;+;е;щ;б;о;о;в;ADV;ВООБЩЕ;ADV -
+8980;2;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+8981;3;в;В;PR;;+;в;;;;;;PR;В;PR
+8982;4;кино;КИНО;S n inan 0 sg loc;;+;о;н;и;к;;;S;КИНО;S n inan nonflex nonflex
+8983;5;я;Я;SPRO sg 1p - nom;;+;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+8984;6;очень;ОЧЕНЬ;ADV -;;+;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+8985;7;любила;ЛЮБИТЬ;V tran ipf praet sg indic act f;;+;а;л;и;б;ю;л;V;ЛЮБИТЬ;V ipf praet sg indic f -
+8986;8;ходить;ХОДИТЬ;V intr ipf inf indic;;+;ь;т;и;д;о;х;V;ХОДИТЬ;V ipf - - inf - -
+8987;9;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+8988;10;очень;ОЧЕНЬ;ADV -;;+;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+8989;11;любила;ЛЮБИТЬ;V tran ipf praet sg indic act f;;+;а;л;и;б;ю;л;V;ЛЮБИТЬ;V ipf praet sg indic f -
+8990;12;смотреть;СМОТРЕТЬ;V tran ipf inf indic;;+;ь;т;е;р;т;о;V;СМОТРЕТЬ;V ipf - - inf - -
+8991;13;фильмы;ФИЛЬМ;S m inan acc pl;;+;ы;м;ь;л;и;ф;S;ФИЛЬМ;S m inan acc pl
+8992;14;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+8993;15;но;НО;CONJ;;+;о;н;;;;;CONJ;НО;CONJ
+8994;16;особо;ОСОБО;ADV -;;+;о;б;о;с;о;;ADV;ОСОБО;ADV -
+8995;17;по;ПО;PR;;+;о;п;;;;;PR;ПО;PR
+8996;18;телевизору;ТЕЛЕВИЗОР;S m inan dat sg;;+;у;р;о;з;и;в;S;ТЕЛЕВИЗОР;S m inan dat sg
+8997;19;раньше;РАНО;ADV comp;;+;е;ш;ь;н;а;р;ADV;РАНО;ADV comp
+8998;20;ничего;НИЧТО;SPRO n sg gen;;+;о;г;е;ч;и;н;S;НИЧТО;S n - gen sg
+8999;21;интересного;ИНТЕРЕСНЫЙ;A - gen sg plen n -;;+;о;г;о;н;с;е;A;ИНТЕРЕСНЫЙ;A - gen sg plen n -
+9000;22;такого;ТАКОЙ;APRO n sg gen;;+;о;г;о;к;а;т;A;ТАКОЙ;A - gen sg plen n -
+9001;23;не;НЕ;PART;;+;е;н;;;;;PART;НЕ;PART
+9002;24;показывали;ПОКАЗЫВАТЬ;V tran ipf praet pl indic - -;;+;и;л;а;в;ы;з;V;ПОКАЗЫВАТЬ;V ipf praet pl indic - -
+9003;25;-;-;PUNC;;+;;;;;;;PUNC;-;PUNC
+9004;26;классику;КЛАССИКА;S f inan acc sg;;+;у;к;и;с;с;а;S;КЛАССИКА;S f inan acc sg
+9005;27;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9006;28;которую;КОТОРЫЙ;APRO acc sg f;;+;ю;у;р;о;т;о;A;КОТОРЫЙ;A - acc sg plen f -
+9007;29;проходили;ПРОХОДИТЬ;V tran ipf praet pl indic act - -;;+;и;л;и;д;о;х;V;ПРОХОДИТЬ;V ipf praet pl indic - -
+9008;30;в;В;PR;;+;в;;;;;;PR;В;PR
+9009;31;школе;ШКОЛА;S f inan loc sg;;+;е;л;о;к;ш;;S;ШКОЛА;S f inan loc sg
+9010;32;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9011;;;;;;+;;;;;;;;;
+9012;1;Но;НО;CONJ;;+;о;н;;;;;CONJ;НО;CONJ
+9013;2;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9014;3;тем не менее;тем не менее;ZERO;;+;е;е;н;е;м; ;-;тем не менее;-
+9015;4;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9016;5;артисты;АРТИСТ;S m anim nom pl;;+;ы;т;с;и;т;р;S;АРТИСТ;S m anim nom pl
+9017;6;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9018;7;которые;КОТОРЫЙ;APRO nom pl;;+;е;ы;р;о;т;о;A;КОТОРЫЙ;A - nom pl plen - -
+9019;8;снимались;СНИМАТЬСЯ;V intr ipf praet pl indic med -;;+;ь;с;и;л;а;м;V;СНИМАТЬСЯ;V ipf praet pl indic - -
+9020;9;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9021;10;эээ;Э;INTJ;;+;э;э;э;;;;NONLEX;ЭЭЭ;NONLEX
+9022;11;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9023;12;в;В;PR;;+;в;;;;;;PR;В;PR
+9024;13;фильмах;ФИЛЬМ;S m inan loc pl;;+;х;а;м;ь;л;и;S;ФИЛЬМ;S m inan loc pl
+9025;14;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9026;15;наши;НАШ;APRO pl nom;;+;и;ш;а;н;;;A;НАШ;A - nom pl plen - -
+9027;16;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9028;17;советские;СОВЕТСКИЙ;A - nom pl plen - -;;+;е;и;к;с;т;е;A;СОВЕТСКИЙ;A - nom pl plen - -
+9029;18;артисты;АРТИСТ;S m anim nom pl;;+;ы;т;с;и;т;р;S;АРТИСТ;S m anim nom pl
+9030;19;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9031;20;они;ОНИ;SPRO pl 3p - nom;;+;и;н;о;;;;SPRO;ОНИ;SPRO pl - - nom
+9032;21;были;БЫТЬ;V intr ipf praet pl indic act -;;+;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic - -
+9033;22;такие;ТАКОЙ;APRO pl nom;;+;е;и;к;а;т;;A;ТАКОЙ;A - nom pl plen - -
+9034;23;красивые;КРАСИВЫЙ;A - nom pl plen - -;;+;е;ы;в;и;с;а;A;КРАСИВЫЙ;A - nom pl plen - -
+9035;24;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9036;;;;;;+;;;;;;;;;
+9037;1;И;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9038;2;все;ВСЕ;SPRO pl nom;;+;е;с;в;;;;S;ВСЕ;S - - nom pl
+9039;3;в;В;PR;;+;в;;;;;;PR;В;PR
+9040;4;моём;МОЙ;APRO sg n loc;;+;м;ё;о;м;;;A;МОЙ;A - loc sg plen n -
+9041;5;окружении;ОКРУЖЕНИЕ;S n inan loc sg;;+;и;и;н;е;ж;у;S;ОКРУЖЕНИЕ;S n inan loc sg
+9042;6;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9043;7;ну;НУ;INTJ;;+;у;н;;;;;PART;НУ;PART
+9044;8;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9045;9;многие;МНОГИЕ;SPRO pl nom;;+;е;и;г;о;н;м;S;МНОГИЕ;S - - nom pl
+9046;10;по крайней мере;по крайней мере;ZERO;;+;е;р;е;м; ;й;-;по крайней мере;-
+9047;11;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9048;12;увлекались;УВЛЕКАТЬСЯ;V intr ipf praet pl indic med -;;+;ь;с;и;л;а;к;V;УВЛЕКАТЬСЯ;V ipf praet pl indic - -
+9049;13;сбором;СБОР;S m inan ins sg;;+;м;о;р;о;б;с;S;СБОР;S m inan ins sg
+9050;14;фотографий;ФОТОГРАФИЯ;S f inan gen pl;;+;й;и;ф;а;р;г;S;ФОТОГРАФИЯ;S f inan gen pl
+9051;15;артистов;АРТИСТ;S m anim gen pl;;+;в;о;т;с;и;т;S;АРТИСТ;S m anim gen pl
+9052;16;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9053;17;потому что;потому что;ZERO;;+;о;т;ч; ;у;м;ZERO;потому что;ZERO
+9054;18;мы;МЫ;SPRO pl 1p - nom;;+;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+9055;19;все;ВСЕ;SPRO pl nom;;+;е;с;в;;;;S;ВСЕ;S - - acc pl
+9056;20;были;БЫТЬ;V intr ipf praet pl indic act -;;+;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic - -
+9057;21;в;В;PR;;+;в;;;;;;PR;В;PR
+9058;22;них;ОНИ;SPRO pl 3p - loc;;+;х;и;н;;;;SPRO;ОНИ;SPRO pl - - loc
+9059;23;влюблены;ВЛЮБИТЬ;PARTCP tran pf pass praet pl brev;;+;ы;н;е;л;б;ю;A;ВЛЮБЛЕННЫЙ;A - - pl brev - -
+9060;24;:;:;PUNC;;+;;;;;;;PUNC;:;PUNC
+9061;25;в;В;PR;;+;в;;;;;;PR;В;PR
+9062;26;мужчин;МУЖЧИНА;S m anim gen pl;;+;н;и;ч;ж;у;м;S;МУЖЧИНА;S m anim gen pl
+9063;27;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9064;28;в;В;PR;;+;в;;;;;;PR;В;PR
+9065;29;женщин;ЖЕНЩИНА;S f anim gen pl;;+;н;и;щ;н;е;ж;S;ЖЕНЩИНА;S f anim gen pl
+9066;30;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9067;31;они;ОНИ;SPRO pl 3p - nom;;+;и;н;о;;;;SPRO;ОНИ;SPRO pl - - nom
+9068;32;были;БЫТЬ;V intr ipf praet pl indic act -;;+;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic - -
+9069;33;действительно;ДЕЙСТВИТЕЛЬНО;ADV -;;+;о;н;ь;л;е;т;ADV;ДЕЙСТВИТЕЛЬНО;ADV -
+9070;34;очень;ОЧЕНЬ;ADV -;;+;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+9071;35;красивыми;КРАСИВЫЙ;A - ins pl plen - -;;+;и;м;ы;в;и;с;A;КРАСИВЫЙ;A - ins pl plen - -
+9072;36;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9073;;;;;;+;;;;;;;;;
+9074;1;И;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9075;2;я;Я;SPRO sg 1p - nom;;+;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+9076;3;тоже;ТОЖЕ;PART;;+;е;ж;о;т;;;PART;ТОЖЕ;PART
+9077;4;увлекалась;УВЛЕКАТЬСЯ;V intr ipf praet sg indic med f;;+;ь;с;а;л;а;к;V;УВЛЕКАТЬСЯ;V ipf praet sg indic f -
+9078;5;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9079;6;конечно;КОНЕЧНО;PARENTH ;;+;о;н;ч;е;н;о;ADV;КОНЕЧНО;ADV -
+9080;7;же;ЖЕ;PART;;+;е;ж;;;;;PART;ЖЕ;PART
+9081;8;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9082;9;собирала;СОБИРАТЬ;V tran ipf praet sg indic act f -;;+;а;л;а;р;и;б;V;СОБИРАТЬ;V ipf praet sg indic f -
+9083;10;фотографии;ФОТОГРАФИЯ;S f inan acc pl;;+;и;и;ф;а;р;г;S;ФОТОГРАФИЯ;S f inan acc pl
+9084;11;артистов;АРТИСТ;S m anim gen pl;;+;в;о;т;с;и;т;S;АРТИСТ;S m anim gen pl
+9085;12;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9086;13;некоторыми;НЕКОТОРЫЙ;APRO pl ins;;+;и;м;ы;р;о;т;A;НЕКОТОРЫЙ;A - ins pl plen - -
+9087;14;обменивались;ОБМЕНИВАТЬСЯ;V intr ipf praet pl indic med -;;+;ь;с;и;л;а;в;V;ОБМЕНИВАТЬСЯ;V ipf praet pl indic - -
+9088;15;с;С;PR;;+;с;;;;;;PR;С;PR
+9089;16;одноклассниками;ОДНОКЛАССНИК;S m anim ins pl;;+;и;м;а;к;и;н;S;ОДНОКЛАССНИК;S m anim ins pl
+9090;17;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9091;18;потому что;потому что;ZERO;;+;о;т;ч; ;у;м;ZERO;потому что;ZERO
+9092;19;были;БЫТЬ;V intr ipf praet pl indic act -;;+;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic - -
+9093;20;одинаковые;ОДИНАКОВЫЙ;A - nom pl plen - -;;+;е;ы;в;о;к;а;A;ОДИНАКОВЫЙ;A - nom pl plen - -
+9094;21;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9095;;;;;;+;;;;;;;;;
+9096;1;Кто-то;КТО-ТО;SPRO anim m sg nom;;+;о;т;;о;т;к;S;КТО-ТО;S m - nom sg
+9097;2;увлекался;УВЛЕКАТЬСЯ;V intr ipf praet sg indic med m;;+;я;с;л;а;к;е;V;УВЛЕКАТЬСЯ;V ipf praet sg indic m -
+9098;3;конкретно;КОНКРЕТНО;ADV -;;+;о;н;т;е;р;к;ADV;КОНКРЕТНО;ADV -
+9099;4;именно;ИМЕННО;PART;;+;о;н;н;е;м;и;PART;ИМЕННО;PART
+9100;5;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9101;6;именно;ИМЕННО;PART;;+;о;н;н;е;м;и;PART;ИМЕННО;PART
+9102;7;одним;ОДИН;APRO m sg ins;;+;м;и;н;д;о;;A;ОДИН;A - ins sg plen m -
+9103;8;артистом;АРТИСТ;S m anim ins sg;;+;м;о;т;с;и;т;S;АРТИСТ;S m anim ins sg
+9104;9;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9105;10;собирал;СОБИРАТЬ;V tran ipf praet sg indic act m;;+;л;а;р;и;б;о;V;СОБИРАТЬ;V ipf praet sg indic m -
+9106;11;их;ОНИ;SPRO pl 3p - acc;;+;х;и;;;;;SPRO;ОНИ;SPRO pl - - acc
+9107;12;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9108;13;ммм;МММ;INTJ;;+;м;м;м;;;;S;МММ;S n inan loc sg
+9109;14;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9110;15;фотографии;ФОТОГРАФИЯ;S f inan nom pl;;+;и;и;ф;а;р;г;S;ФОТОГРАФИЯ;S f inan nom pl
+9111;16;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9112;17;в;В;PR;;+;в;;;;;;PR;В;PR
+9113;18;любом;ЛЮБОЙ;APRO m sg loc;;+;м;о;б;ю;л;;A;ЛЮБОЙ;A - loc sg plen m -
+9114;19;виде;ВИД;S m inan loc sg;;+;е;д;и;в;;;S;ВИД;S m inan loc sg
+9115;20;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9116;21;ну;НУ;INTJ;;+;у;н;;;;;PART;НУ;PART
+9117;22;т;Т;NONLEX;слитно;+;т;;;;;;S;Т;S - - nonflex nonflex
+9118;23;-;-;PUNC;слитно;+;;;;;;;PUNC;-;PUNC
+9119;24;то есть;то есть;ZERO;;+;ь;т;с;е; ;о;-;то есть;-
+9120;25;у;У;PR;;+;у;;;;;;PR;У;PR
+9121;26;кого-то;КТО-ТО;SPRO m sg gen;;+;о;т;;о;г;о;S;КТО-ТО;S m - gen sg
+9122;27;была;БЫТЬ;V intr ipf praet sg indic act f;;+;а;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic f -
+9123;28;там;ТАМ;PART;;+;м;а;т;;;;ADV;ТАМ;ADV -
+9124;29;чёрно-белая;ЧЕРНО-БЕЛЫЙ;A - nom sg plen f -;;+;я;а;л;е;б;;A;ЧЕРНО-БЕЛЫЙ;A - nom sg plen m -
+9125;30;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9126;31;у;У;PR;;+;у;;;;;;PR;У;PR
+9127;32;кого-то;КТО-ТО;SPRO m sg gen;;+;о;т;;о;г;о;S;КТО-ТО;S m - gen sg
+9128;33;была;БЫТЬ;V intr ipf praet sg indic act f;;+;а;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic f -
+9129;34;в;В;PR;;+;в;;;;;;PR;В;PR
+9130;35;каком-то;КАКОЙ-ТО;APRO n sg loc;;+;о;т;;м;о;к;A;КАКОЙ-ТО;A - loc sg plen n -
+9131;36;платье;ПЛАТЬЕ;S n inan loc sg;;+;е;ь;т;а;л;п;S;ПЛАТЬЕ;S n inan loc sg
+9132;37;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9133;38;у;У;PR;;+;у;;;;;;PR;У;PR
+9134;39;кого-то;КТО-ТО;SPRO m sg gen;;+;о;т;;о;г;о;S;КТО-ТО;S m - gen sg
+9135;40;в;В;PR;;+;в;;;;;;PR;В;PR
+9136;41;каком-то;КАКОЙ-ТО;APRO n sg loc;;+;о;т;;м;о;к;A;КАКОЙ-ТО;A - loc sg plen m -
+9137;42;костюме;КОСТЮМ;S m inan loc sg;;+;е;м;ю;т;с;о;S;КОСТЮМ;S m inan loc sg
+9138;43;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9139;;;;;;+;;;;;;;;;
+9140;1;К;К;PR;;+;к;;;;;;PR;К;PR
+9141;2;чему;ЧТО;SPRO n sg dat;;+;у;м;е;ч;;;S;ЧТО;S n - dat sg
+9142;3;я;Я;SPRO sg 1p - nom;;+;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+9143;4;всё;ВЕСЬ;SPRO n sg acc;;+;ё;с;в;;;;A;ВЕСЬ;A - nom pl plen - -
+9144;5;это;ЭТО;SPRO n sg acc;;+;о;т;э;;;;S;ЭТО;S n - nom sg
+9145;6;говорю;ГОВОРИТЬ;V tran ipf praes sg indic act- 1p;;+;ю;р;о;в;о;г;V;ГОВОРИТЬ;V ipf praes sg indic - 1p
+9146;7;?;?;SENT;;+;;;;;;;SENT;?;SENT
+9147;;;;;;+;;;;;;;;;
+9148;1;Просто;ПРОСТО;PART;;+;о;т;с;о;р;п;PART;ПРОСТО;PART
+9149;2;вот;ВОТ;PART;;+;т;о;в;;;;PART;ВОТ;PART
+9150;3;сейчас;СЕЙЧАС;ADV -;;+;с;а;ч;й;е;с;ADV;СЕЙЧАС;ADV -
+9151;4;вот;ВОТ;PART;;+;т;о;в;;;;PART;ВОТ;PART
+9152;5;у;У;PR;;+;у;;;;;;PR;У;PR
+9153;6;меня;Я;SPRO sg 1p - gen;;+;я;н;е;м;;;SPRO;Я;SPRO sg 1p - acc
+9154;7;есть;БЫТЬ;V intr ipf praes sg indic act - 3p;;+;ь;т;с;е;;;V;БЫТЬ;V ipf praes sg indic - 3p
+9155;8;время;ВРЕМЯ;S n inan acc sg;;+;я;м;е;р;в;;S;ВРЕМЯ;S n inan acc sg
+9156;9;смотреть;СМОТРЕТЬ;V tran ipf - - inf act - -;;+;ь;т;е;р;т;о;V;СМОТРЕТЬ;V ipf - - inf - -
+9157;10;телевизор;ТЕЛЕВИЗОР;S m inan acc sg;;+;р;о;з;и;в;е;S;ТЕЛЕВИЗОР;S m inan acc sg
+9158;11;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9159;12;я;Я;SPRO sg 1p - nom;;+;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+9160;13;смотрю;СМОТРЕТЬ;V tran ipf praes sg indic act - 1p;;+;ю;р;т;о;м;с;V;СМОТРЕТЬ;V ipf praes sg indic - 1p
+9161;14;фильмы;ФИЛЬМ;S m inan acc pl;;+;ы;м;ь;л;и;ф;S;ФИЛЬМ;S m inan acc pl
+9162;15;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9163;16;в;В;PARENTH;слитно;+;в;;;;;;PR;В;PR
+9164;17;основном;ОСНОВНОЕ;PARENTH;;+;м;о;н;в;о;н;S;ОСНОВНОЕ;S n inan loc sg
+9165;18;это;ЭТО;SPRO n sg nom;;+;о;т;э;;;;S;ЭТО;S n - nom sg
+9166;19;не;НЕ;PART;;+;е;н;;;;;PART;НЕ;PART
+9167;20;фильмы;ФИЛЬМ;S m inan nom pl;;+;ы;м;ь;л;и;ф;S;ФИЛЬМ;S m inan acc pl
+9168;21;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9169;22;а;А;CONJ;;+;а;;;;;;CONJ;А;CONJ
+9170;23;сериалы;СЕРИАЛ;S m inan nom pl;;+;ы;л;а;и;р;е;S;СЕРИАЛ;S m inan nom pl
+9171;24;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9172;25;редко;РЕДКО;ADV -;;+;о;к;д;е;р;;ADV;РЕДКО;ADV -
+9173;26;-;-;PUNC;;+;;;;;;;PUNC;-;PUNC
+9174;27;мини;МИНИ;NONLEX;слитно;+;и;н;и;м;;;COM;МИНИ;COM
+9175;28;-;-;PUNC;слитно;+;;;;;;;PUNC;-;PUNC
+9176;29;сериалы;СЕРИАЛ;S m inan nom pl;;+;ы;л;а;и;р;е;S;СЕРИАЛ;S m inan acc pl
+9177;30;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9178;31;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9179;32;я;Я;SPRO sg 1p - nom;;+;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+9180;33;не;НЕ;PART;;+;е;н;;;;;PART;НЕ;PART
+9181;34;вижу;ВИДЕТЬ;V tran ipf praes sg indic act - 1p;;+;у;ж;и;в;;;V;ВИДЕТЬ;V ipf praes sg indic - 1p
+9182;35;героев;ГЕРОЙ;S m anim acc pl;;+;в;е;о;р;е;г;S;ГЕРОЙ;S m anim acc pl
+9183;36;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9184;37;ммм;МММ;INTJ;;+;м;м;м;;;;S;МММ;S n inan loc sg
+9185;38;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9186;39;звёзд;ЗВЕЗДА;S f inan gen pl;;+;д;з;ё;в;з;;S;ЗВЕЗДА;S f inan gen pl
+9187;40;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9188;41;вот;ВОТ;PART;;+;т;о;в;;;;PART;ВОТ;PART
+9189;42;в;В;PR;;+;в;;;;;;PR;В;PR
+9190;43;том;ТОТ;APRO m sg loc;;+;м;о;т;;;;A;ТОТ;A - loc sg plen n -
+9191;44;моём;МОЙ;APRO m sg loc;;+;м;ё;о;м;;;A;МОЙ;A - loc sg plen n -
+9192;45;понимании;ПОНИМАНИЕ;S n inan loc sg;;+;и;и;н;а;м;и;S;ПОНИМАНИЕ;S n inan loc sg
+9193;46;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9194;47;чтобы;ЧТОБЫ;CONJ;;+;ы;б;о;т;ч;;CONJ;ЧТОБЫ;CONJ
+9195;48;я;Я;SPRO sg 1p - nom;;+;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+9196;49;вот;ВОТ;PART;;+;т;о;в;;;;PART;ВОТ;PART
+9197;50;могла;МОЧЬ;V intr ipf praet sg indic act f -;;+;а;л;г;о;м;;V;МОЧЬ;V ipf praet sg indic f -
+9198;51;сказать;СКАЗАТЬ;V tran pf - - inf act - -;;+;ь;т;а;з;а;к;V;СКАЗАТЬ;V pf - - inf - -
+9199;52;да;ДА;PART;;+;а;д;;;;;CONJ;ДА;CONJ
+9200;53;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9201;54;вот;ВОТ;PART;;+;т;о;в;;;;PART;ВОТ;PART
+9202;55;это;ЭТО;SPRO n sg nom;;+;о;т;э;;;;S;ЭТО;S n - nom sg
+9203;56;вот;ВОТ;PART;;+;т;о;в;;;;PART;ВОТ;PART
+9204;57;звезда;ЗВЕЗДА;S f inan nom sg;;+;а;д;з;е;в;з;S;ЗВЕЗДА;S f inan nom sg
+9205;58;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9206;59;да;ДА;PART;;+;а;д;;;;;CONJ;ДА;CONJ
+9207;60;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9208;61;я;Я;SPRO sg 1p - nom;;+;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+9209;62;влюблена;ВЛЮБИТЬ;PARTCP tran pf pass praet sg f brev;;+;а;н;е;л;б;ю;A;ВЛЮБЛЕННЫЙ;A - - sg brev f -
+9210;63;в;В;PR;;+;в;;;;;;PR;В;PR
+9211;64;него;ОН;SPRO sg 3p m acc;;+;о;г;е;н;;;SPRO;ОН;SPRO sg 3p m acc
+9212;65;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9213;66;да;ДА;PART;;+;а;д;;;;;CONJ;ДА;CONJ
+9214;67;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9215;68;он;ОН;SPRO sg 3p m nom;;+;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+9216;69;замечательный;ЗАМЕЧАТЕЛЬНЫЙ;A - nom sg plen m -;;+;й;ы;н;ь;л;е;A;ЗАМЕЧАТЕЛЬНЫЙ;A - nom sg plen m -
+9217;70;артист;АРТИСТ;S m anim nom sg;;+;т;с;и;т;р;а;S;АРТИСТ;S m anim nom sg
+9218;71;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9219;72;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9220;73;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9221;74;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9222;75;он;ОН;SPRO sg 3p m nom;;+;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+9223;76;симпатичный;СИМПАТИЧНЫЙ;A - nom sg plen m -;;+;й;ы;н;ч;и;т;A;СИМПАТИЧНЫЙ;A - nom sg plen m -
+9224;77;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9225;78;он;ОН;SPRO sg 3p m nom;;+;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+9226;79;красивый;КРАСИВЫЙ;A - nom sg plen m -;;+;й;ы;в;и;с;а;A;КРАСИВЫЙ;A - nom sg plen m -
+9227;80;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9228;81;ну;НУ;INTJ;;+;у;н;;;;;PART;НУ;PART
+9229;82;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9230;83;я;Я;SPRO sg 1p - nom;;+;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+9231;84;не;НЕ;PART;;+;е;н;;;;;PART;НЕ;PART
+9232;85;знаю;ЗНАТЬ;V tran ipf praes sg indic act - 1p;;+;ю;а;н;з;;;V;ЗНАТЬ;V ipf praes sg indic - 1p
+9233;86;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9234;87;вот;ВОТ;PART;;+;т;о;в;;;;PART;ВОТ;PART
+9235;88;нет;НЕТ;PART;;+;т;е;н;;;;PART;НЕТ;PART
+9236;89;такой;ТАКОЙ;APRO f sg gen;;+;й;о;к;а;т;;A;ТАКОЙ;A - gen sg plen f -
+9237;90;восторженности;ВОСТОРЖЕННОСТЬ;S f inan gen sg;;+;и;т;с;о;н;н;S;ВОСТОРЖЕННОСТЬ;S f inan gen sg
+9238;91;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9239;92;может;МОЖЕТ;PARENTH;;+;т;е;ж;о;м;;V;МОЧЬ;V ipf praes sg indic - 3p
+9240;93;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9241;94;конечно;КОНЕЧНО;ADV -;;+;о;н;ч;е;н;о;ADV;КОНЕЧНО;ADV -
+9242;95;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9243;96;это;ЭТО;SPRO n sg nom;;+;о;т;э;;;;S;ЭТО;S n - nom sg
+9244;97;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9245;98;эээ;Э;INTJ;;+;э;э;э;;;;NONLEX;ЭЭЭ;NONLEX
+9246;99;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9247;100;с;С;PR;;+;с;;;;;;PR;С;PR
+9248;101;возрастом;ВОЗРАСТ;S m inan ins sg;;+;м;о;т;с;а;р;S;ВОЗРАСТ;S m inan ins sg
+9249;102;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9250;103;но;НО;CONJ;;+;о;н;;;;;CONJ;НО;CONJ
+9251;104;мне;Я;SPRO sg 1p - dat;;+;е;н;м;;;;SPRO;Я;SPRO sg 1p - loc
+9252;105;кажется;КАЗАТЬСЯ;V intr ipf praes sg indic med - 3p;;+;я;с;т;е;ж;а;V;КАЗАТЬСЯ;V ipf praes sg indic - 3p
+9253;106;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9254;107;нет;НЕТ;PART;;+;т;е;н;;;;PART;НЕТ;PART
+9255;108;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9256;109;немножко;НЕМНОЖКО;ADV -;;+;о;к;ж;о;н;м;ADV;НЕМНОЖКО;ADV -
+9257;110;индустрия;ИНДУСТРИЯ;S f inan nom sg;;+;я;и;р;т;с;у;S;ИНДУСТРИЯ;S f inan nom sg
+9258;111;кино;КИНО;S n inan 0 sg loc;;+;о;н;и;к;;;S;КИНО;S n inan nonflex nonflex
+9259;112;стала;СТАТЬ;V intr pf praet sg indic act f -;;+;а;л;а;т;с;;V;СТАТЬ;V pf praet sg indic f -
+9260;113;другой;ДРУГОЙ;APRO f sg gen;;+;й;о;г;у;р;д;A;ДРУГОЙ;A - acc sg plen m inan
+9261;114;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9262;;;;;;+;;;;;;;;;
+9263;1;И;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9264;2;артисты;АРТИСТ;S m anim nom pl;;+;ы;т;с;и;т;р;S;АРТИСТ;S m anim nom pl
+9265;3;стали;СТАТЬ;V intr pf praet pl indic act -;;+;и;л;а;т;с;;S;СТАЛЬ;S f inan loc sg
+9266;4;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9267;5;ну;НУ;INTJ;;+;у;н;;;;;PART;НУ;PART
+9268;6;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9269;7;другими;ДРУГОЙ;APRO pl gen;;+;и;м;и;г;у;р;A;ДРУГОЙ;A - ins pl plen - -
+9270;8;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9271;;;;;;+;;;;;;;;;
+9272;1;Да;ДА;PART;;+;а;д;;;;;PART;ДА;PART
+9273;2;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9274;3;&;&;PUNC;;+;;;;;;;PUNC;&;PUNC
+9275;4;lt;LT;NONLEX;;+;;;;;;;NONLEX;LT;NONLEX
+9276;5;";";";";PUNC;;+;;;;;;;PUNC;";";PUNC
+9277;6;distinct;DISTINCT;NONLEX;;+;;;;;;;NONLEX;DISTINCT;NONLEX
+9278;7;form;FORM;NONLEX;;+;;;;;;;NONLEX;FORM;NONLEX
+9279;8;+;+;PUNC;;+;;;;;;;PUNC;+;PUNC
+9280;9;&;&;PUNC;;+;;;;;;;PUNC;&;PUNC
+9281;10;quot;QUOT;NONLEX;;+;;;;;;;NONLEX;QUOT;NONLEX
+9282;11;";";";";PUNC;;+;;;;;;;PUNC;";";PUNC
+9283;12;наерно;НАВЕРНО;PARENTH;distort;+;о;н;р;е;а;н;S;НАЕРНО;S m inan loc sg
+9284;13;&;&;PUNC;;+;;;;;;;PUNC;&;PUNC
+9285;14;quot;QUOT;NONLEX;;+;;;;;;;NONLEX;QUOT;NONLEX
+9286;15;";";";";SENT;;+;;;;;;;SENT;";";SENT
+9287;;;;;;+;;;;;;;;;
+9288;1;&;&;PUNC;;+;;;;;;;PUNC;&;PUNC
+9289;2;gt;GT;NONLEX;;+;;;;;;;NONLEX;GT;NONLEX
+9290;3;";";";";PUNC;;+;;;;;;;PUNC;";";PUNC
+9291;4;наверно;НАВЕРНО;PARENTH;;+;о;н;р;е;в;а;ADV;НАВЕРНО;ADV -
+9292;5;&;&;PUNC;;+;;;;;;;PUNC;&;PUNC
+9293;6;lt;LT;NONLEX;;+;;;;;;;NONLEX;LT;NONLEX
+9294;7;";";";";SENT;;+;;;;;;;SENT;";";SENT
+9295;;;;;;+;;;;;;;;;
+9296;1;/;/;PUNC;;+;;;;;;;PUNC;/;PUNC
+9297;2;distinct;DISTINCT;NONLEX;;+;;;;;;;NONLEX;DISTINCT;NONLEX
+9298;3;&;&;PUNC;;+;;;;;;;PUNC;&;PUNC
+9299;4;gt;GT;NONLEX;;+;;;;;;;NONLEX;GT;NONLEX
+9300;5;";";";";SENT;;+;;;;;;;SENT;";";SENT
+9301;;;;;;+;;;;;;;;;
+9302;1;просто;ПРОСТО;PARENTH;;+;о;т;с;о;р;п;PART;ПРОСТО;PART
+9303;2;поменялось;ПОМЕНЯТЬСЯ;V intr pf praet sg indic med n -;;+;ь;с;о;л;я;н;V;ПОМЕНЯТЬСЯ;V pf praet sg indic n -
+9304;3;время;ВРЕМЯ;S n inan nom sg;;+;я;м;е;р;в;;S;ВРЕМЯ;S n inan nom sg
+9305;4;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9306;;;;;;+;;;;;;;;;
+9307;1;Ну;НУ;INTJ;;+;у;н;;;;;PART;НУ;PART
+9308;2;очень;ОЧЕНЬ;ADV -;;+;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+9309;3;жаль;ЖАЛЬ;PRAEDIC;;+;ь;л;а;ж;;;ADV;ЖАЛЬ;ADV -
+9310;4;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9311;;;;;;+;;;;;;;;;
+9312;1;Можно;МОЖНО;PRAEDIC;;+;о;н;ж;о;м;;ADV;МОЖНО;ADV -
+9313;2;было;БЫТЬ;V intr ipf praet sg indic act n -;;+;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+9314;3;бы;БЫ;PART;;+;ы;б;;;;;PART;БЫ;PART
+9315;4;как-то;КАК-ТО;ADVPRO;;+;о;т;;к;а;к;ADV;КАК-ТО;ADV -
+9316;5;...;...;SENT;;+;;;;;;;SENT;...;SENT
+9317;;;;;;+;;;;;;;;;
+9318;1;Наверное;НАВЕРНОЕ;PARENTH;;+;е;о;н;р;е;в;ADV;НАВЕРНОЕ;ADV -
+9319;2;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9320;3;это;ЭТО;SPRO n sg nom;;+;о;т;э;;;;S;ЭТО;S n - nom sg
+9321;4;происходит;ПРОИСХОДИТЬ;V intr ipf praes sg indic act - 3p;;+;т;и;д;о;х;с;V;ПРОИСХОДИТЬ;V ipf praes sg indic - 3p
+9322;5;ещё;ЕЩЕ;ADV -;;+;ё;щ;е;;;;ADV;ЕЩЕ;ADV -
+9323;6;из-за;ИЗ-ЗА;PR;;+;а;з;;з;и;;PR;ИЗ-ЗА;PR
+9324;7;того;ТО;SPRO n sg gen;;+;о;г;о;т;;;S;ТО;S n - gen sg
+9325;8;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9326;9;что;ЧТО;CONJ;;+;о;т;ч;;;;CONJ;ЧТО;CONJ
+9327;10;раньше;РАНО;ADV comp;;+;е;ш;ь;н;а;р;ADV;РАНО;ADV comp
+9328;11;об;ОБ;PR;;+;б;о;;;;;PR;ОБ;PR
+9329;12;артистах;АРТИСТ;S m anim loc pl;;+;х;а;т;с;и;т;S;АРТИСТ;S m anim loc pl
+9330;13;мы;МЫ;SPRO pl 1p - nom;;+;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+9331;14;знали;ЗНАТЬ;V tran ipf praet pl indic act - -;;+;и;л;а;н;з;;V;ЗНАТЬ;V ipf praet pl indic - -
+9332;15;только;ТОЛЬКО;PART;;+;о;к;ь;л;о;т;PART;ТОЛЬКО;PART
+9333;16;по;ПО;PR;;+;о;п;;;;;PR;ПО;PR
+9334;17;их;ИХ;APRO;;+;х;и;;;;;A;ИХ;A - nonflex nonflex plen - -
+9335;18;ролям;РОЛЬ;S f inan dat pl;;+;м;я;л;о;р;;S;РОЛЬ;S f inan dat pl
+9336;19;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9337;;;;;;+;;;;;;;;;
+9338;1;Редко;РЕДКО;ADV -;;+;о;к;д;е;р;;ADV;РЕДКО;ADV -
+9339;2;были;БЫТЬ;V intr ipf praet pl indic act -;;+;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic - -
+9340;3;упоминания;УПОМИНАНИЕ;S n inan nom pl;;+;я;и;н;а;н;и;S;УПОМИНАНИЕ;S n inan nom pl
+9341;4;о;О;PR;;+;о;;;;;;PR;О;PR
+9342;5;том;ТО;S n inan nom pl;;+;м;о;т;;;;S;ТО;S n - loc sg
+9343;6;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9344;7;что;ЧТО;CONJ;;+;о;т;ч;;;;CONJ;ЧТО;CONJ
+9345;8;вот;ВОТ;PART;;+;т;о;в;;;;PART;ВОТ;PART
+9346;9;у;У;PR;;+;у;;;;;;PR;У;PR
+9347;10;них;ОНИ;SPRO pl - - gen 3p;;+;х;и;н;;;;SPRO;ОНИ;SPRO pl - - loc
+9348;11;жена;ЖЕНА;S f anim nom sg;;+;а;н;е;ж;;;S;ЖЕНА;S f anim nom sg
+9349;12;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9350;13;муж;МУЖ;S m anim nom sg;;+;ж;у;м;;;;S;МУЖ;S m anim nom sg
+9351;14;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9352;15;дети;РЕБЕНОК;S m anim nom pl;;+;и;т;е;д;;;S;РЕБЕНОК;S m anim nom pl
+9353;16;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9354;17;а;А;CONJ;;+;а;;;;;;CONJ;А;CONJ
+9355;18;сейчас;СЕЙЧАС;ADVPRO;;+;с;а;ч;й;е;с;ADV;СЕЙЧАС;ADV -
+9356;19;настолько;НАСТОЛЬКО;ADV -;;+;о;к;ь;л;о;т;ADV;НАСТОЛЬКО;ADV -
+9357;20;мы;МЫ;SPRO pl 1p - nom;;+;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+9358;21;просвещены;ПРОСВЕТИТЬ;PARTCP tran pf praet - pl brev - pass -;;+;ы;н;е;щ;е;в;PARTCP;ПРОСВЕТИТЬ;PARTCP pf praet - pl brev - pass -
+9359;22;о;О;PR;;+;о;;;;;;PR;О;PR
+9360;23;семейных;СЕМЕЙНЫЙ;A - loc pl plen - -;;+;х;ы;н;й;е;м;A;СЕМЕЙНЫЙ;A - loc pl plen - -
+9361;24;отношениях;ОТНОШЕНИЕ;S n inan loc pl;;+;х;я;и;н;е;ш;S;ОТНОШЕНИЕ;S n inan loc pl
+9362;25;ио;ИО;CONJ + PR;distort раздельно;+;о;и;;;;;CONJ;ИО;CONJ
+9363;26;не;НЕ;PART;;+;е;н;;;;;PART;НЕ;PART
+9364;27;с...;С...;NONLEX;distort;+;;;;с;;;PR;С...;PR
+9365;28;не;НЕ;PART;;+;е;н;;;;;PART;НЕ;PART
+9366;29;о;О;PR;;+;о;;;;;;PR;О;PR
+9367;30;семейных;СЕМЕЙНЫЙ;A - loc pl plen - -;;+;х;ы;н;й;е;м;A;СЕМЕЙНЫЙ;A - loc pl plen - -
+9368;31;отношениях;ОТНОШЕНИЕ;S n inan loc pl;;+;х;я;и;н;е;ш;S;ОТНОШЕНИЕ;S n inan loc pl
+9369;32;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9370;33;это;ЭТО;SPRO n sg nom;;+;о;т;э;;;;S;ЭТО;S n - nom sg
+9371;34;даже;ДАЖЕ;PART;;+;е;ж;а;д;;;PART;ДАЖЕ;PART
+9372;35;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9373;36;эээ;Э;INTJ;;+;э;э;э;;;;NONLEX;ЭЭЭ;NONLEX
+9374;37;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9375;38;прям;ПРЯМ;PART;;+;м;я;р;п;;;A;ПРЯМОЙ;A - - sg brev m -
+9376;39;даже;ДАЖЕ;PART;;+;е;ж;а;д;;;PART;ДАЖЕ;PART
+9377;40;страшно;СТРАШНО;ADV -;;+;о;н;ш;а;р;т;ADV;СТРАШНО;ADV -
+9378;41;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9379;;;;;;+;;;;;;;;;
+9380;1;Зачем;ЗАЧЕМ;ADVPRO;;+;м;е;ч;а;з;;ADV;ЗАЧЕМ;ADV -
+9381;2;нам;МЫ;SPRO pl 1p - dat;;+;м;а;н;;;;SPRO;МЫ;SPRO pl 1p - dat
+9382;3;знать;ЗНАТЬ;V tran ipf - - inf act - -;;+;ь;т;а;н;з;;V;ЗНАТЬ;V ipf - - inf - -
+9383;4;об;ОБ;PR;;+;б;о;;;;;PR;ОБ;PR
+9384;5;артисте;АРТИСТ;S m anim loc sg;;+;е;т;с;и;т;р;S;АРТИСТ;S m anim loc sg
+9385;6;некоторые;НЕКОТОРЫЙ;APRO pl acc;;+;е;ы;р;о;т;о;A;НЕКОТОРЫЙ;A - acc pl plen - inan
+9386;7;стороны;СТОРОНА;S f inan acc pl;;+;ы;н;о;р;о;т;S;СТОРОНА;S f inan gen sg
+9387;8;его;ЕГО;APRO;;+;о;г;е;;;;A;ЕГО;A - nonflex nonflex plen - -
+9388;9;жизни;ЖИЗНЬ;S f inan gen sg;;+;и;н;з;и;ж;;S;ЖИЗНЬ;S f inan gen sg
+9389;10;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9390;11;которые;КОТОРЫЙ;APRO pl acc;;+;е;ы;р;о;т;о;A;КОТОРЫЙ;A - nom pl plen - -
+9391;12;совсем;СОВСЕМ;ADV -;;+;м;е;с;в;о;с;ADV;СОВСЕМ;ADV -
+9392;13;не;НЕ;PART;;+;е;н;;;;;PART;НЕ;PART
+9393;14;лицеприятны;ЛИЦЕПРИЯТНЫЙ;A pl acc brev;;+;ы;н;т;я;и;р;A;ЛИЦЕПРИЯТНЫЙ;A - - pl brev - -
+9394;15;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9395;;;;;;+;;;;;;;;;
+9396;1;Иногда;ИНОГДА;ADV -;;+;а;д;г;о;н;и;ADV;ИНОГДА;ADV -
+9397;2;смотришь;СМОТРЕТЬ;V tran ipf praes sg indic act - 2p;;+;ь;ш;и;р;т;о;V;СМОТРЕТЬ;V ipf praes sg indic - 2p
+9398;3;кино;КИНО;S n inan 0 sg loc;;+;о;н;и;к;;;S;КИНО;S n inan nonflex nonflex
+9399;4;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9400;5;какой-то;КАКОЙ-ТО;APRO m sg acc;;+;о;т;;й;о;к;A;КАКОЙ-ТО;A - nom sg plen m -
+9401;6;фильм;ФИЛЬМ;S m inan acc sg;;+;м;ь;л;и;ф;;S;ФИЛЬМ;S m inan nom sg
+9402;7;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9403;8;думаешь;ДУМАТЬ;V intr ipf praes sg indic act - 2p;;+;ь;ш;е;а;м;у;V;ДУМАТЬ;V ipf praes sg indic - 2p
+9404;9;:;:;PUNC;;+;;;;;;;PUNC;:;PUNC
+9405;10;боже;БОЖЕ;INTJ;;+;е;ж;о;б;;;INTJ;БОЖЕ;INTJ
+9406;11;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9407;12;как;КАК;CONJ;;+;к;а;к;;;;CONJ;КАК;CONJ
+9408;13;он;ОН;SPRO sg 3p m nom;;+;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+9409;14;может;МОЧЬ;V intr ipf praes sg indic act - 3p;;+;т;е;ж;о;м;;V;МОЧЬ;V ipf praes sg indic - 3p
+9410;15;вот;ВОТ;PART;;+;т;о;в;;;;PART;ВОТ;PART
+9411;16;говорить;ГОВОРИТЬ;V tran ipf - - inf act - -;;+;ь;т;и;р;о;в;V;ГОВОРИТЬ;V ipf - - inf - -
+9412;17;то;ТО;SPRO n sg acc;;+;о;т;;;;;S;ТО;S n - acc sg
+9413;18;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9414;19;что;ЧТО;CONJ;;+;о;т;ч;;;;CONJ;ЧТО;CONJ
+9415;20;он;ОН;SPRO sg 3p m nom;;+;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+9416;21;&;&;PUNC;;+;;;;;;;PUNC;&;PUNC
+9417;22;lt;LT;NONLEX;;+;;;;;;;NONLEX;LT;NONLEX
+9418;23;";";";";PUNC;;+;;;;;;;PUNC;";";PUNC
+9419;24;distinct;DISTINCT;NONLEX;;+;;;;;;;NONLEX;DISTINCT;NONLEX
+9420;25;form;FORM;NONLEX;;+;;;;;;;NONLEX;FORM;NONLEX
+9421;26;+;+;PUNC;;+;;;;;;;PUNC;+;PUNC
+9422;27;&;&;PUNC;;+;;;;;;;PUNC;&;PUNC
+9423;28;quot;QUOT;NONLEX;;+;;;;;;;NONLEX;QUOT;NONLEX
+9424;29;";";";";PUNC;;+;;;;;;;PUNC;";";PUNC
+9425;30;щас;СЕЙЧАС;ADV -;distort;+;с;а;щ;;;;ADV;ЩАС;ADV -
+9426;31;&;&;PUNC;;+;;;;;;;PUNC;&;PUNC
+9427;32;quot;QUOT;NONLEX;;+;;;;;;;NONLEX;QUOT;NONLEX
+9428;33;";";";";SENT;;+;;;;;;;SENT;";";SENT
+9429;;;;;;+;;;;;;;;;
+9430;1;&;&;PUNC;;+;;;;;;;PUNC;&;PUNC
+9431;2;gt;GT;NONLEX;;+;;;;;;;NONLEX;GT;NONLEX
+9432;3;";";";";PUNC;;+;;;;;;;PUNC;";";PUNC
+9433;4;сейчас;СЕЙЧАС;ADV -;;+;с;а;ч;й;е;с;ADV;СЕЙЧАС;ADV -
+9434;5;&;&;PUNC;;+;;;;;;;PUNC;&;PUNC
+9435;6;lt;LT;NONLEX;;+;;;;;;;NONLEX;LT;NONLEX
+9436;7;";";";";SENT;;+;;;;;;;SENT;";";SENT
+9437;;;;;;+;;;;;;;;;
+9438;1;/;/;PUNC;;+;;;;;;;PUNC;/;PUNC
+9439;2;distinct;DISTINCT;NONLEX;;+;;;;;;;NONLEX;DISTINCT;NONLEX
+9440;3;&;&;PUNC;;+;;;;;;;PUNC;&;PUNC
+9441;4;gt;GT;NONLEX;;+;;;;;;;NONLEX;GT;NONLEX
+9442;5;";";";";SENT;;+;;;;;;;SENT;";";SENT
+9443;;;;;;+;;;;;;;;;
+9444;1;говорит;ГОВОРИТЬ;V tran ipf praes sg indic act - 3p;;+;т;и;р;о;в;о;V;ГОВОРИТЬ;V ipf praes sg indic - 3p
+9445;2;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9446;3;если;ЕСЛИ;CONJ;;+;и;л;с;е;;;CONJ;ЕСЛИ;CONJ
+9447;4;вот;ВОТ;PART;;+;т;о;в;;;;PART;ВОТ;PART
+9448;5;он;ОН;SPRO sg 3p m nom;;+;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+9449;6;такой;ТАКОЙ;APRO m sg nom;;+;й;о;к;а;т;;A;ТАКОЙ;A - nom sg plen m -
+9450;7;плохой;ПЛОХОЙ;A - nom sg plen m -;;+;й;о;х;о;л;п;A;ПЛОХОЙ;A - nom sg plen m -
+9451;8;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9452;9;он;ОН;SPRO sg 3p m nom;;+;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+9453;10;же;ЖЕ;PART;;+;е;ж;;;;;PART;ЖЕ;PART
+9454;11;совершает;СОВЕРШАТЬ;V tran ipf praes sg indic act - 3p;;+;т;е;а;ш;р;е;V;СОВЕРШАТЬ;V ipf praes sg indic - 3p
+9455;12;такие;ТАКОЙ;APRO pl acc;;+;е;и;к;а;т;;A;ТАКОЙ;A - nom pl plen - -
+9456;13;поступки;ПОСТУПОК;S m inan acc pl;;+;и;к;п;у;т;с;S;ПОСТУПОК;S m inan nom pl
+9457;14;в;В;PR;;+;в;;;;;;PR;В;PR
+9458;15;жизни;ЖИЗНЬ;S f inan loc sg;;+;и;н;з;и;ж;;S;ЖИЗНЬ;S f inan loc sg
+9459;16;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9460;17;вот;ВОТ;PART;;+;т;о;в;;;;PART;ВОТ;PART
+9461;18;о;О;PR;;+;о;;;;;;PR;О;PR
+9462;19;нём;ОН;SPRO sg 3p m loc;;+;м;ё;н;;;;SPRO;ОН;SPRO sg 3p m loc
+9463;20;такое;ТАКОЙ;APRO pl acc;;+;е;о;к;а;т;;A;ТАКОЙ;A - nom sg plen n -
+9464;21;вот;ВОТ;PART;;+;т;о;в;;;;PART;ВОТ;PART
+9465;22;писали;ПИСАТЬ;V tran ipf praet pl indic act - -;;+;и;л;а;с;и;п;V;ПИСАТЬ;V ipf praet pl indic - -
+9466;23;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9467;24;о;О;PR;;+;о;;;;;;PR;О;PR
+9468;25;нём;ОН;SPRO sg 3p m loc;;+;м;ё;н;;;;SPRO;ОН;SPRO sg 3p m loc
+9469;26;такое;ТАКОЙ;APRO pl acc;;+;е;о;к;а;т;;A;ТАКОЙ;A - nom sg plen n -
+9470;27;говорили;ГОВОРИТЬ;V tran ipf praet pl indic act - -;;+;и;л;и;р;о;в;V;ГОВОРИТЬ;V ipf praet pl indic - -
+9471;28;и...;И...;CONJ;;+;;;;и;;;CONJ;И...;CONJ
+9472;29;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9473;30;это;ЭТО;SPRO n sg nom;;+;о;т;э;;;;S;ЭТО;S n - nom sg
+9474;31;неинтересно;НЕИНТЕРЕСНЫЙ;A - - sg brev n -;;+;о;н;с;е;р;е;A;НЕИНТЕРЕСНЫЙ;A - - sg brev n -
+9475;32;уже;УЖЕ;ADV -;;+;е;ж;у;;;;ADV;УЖЕ;ADV -
+9476;33;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9477;34;ну;НУ;INTJ;;+;у;н;;;;;PART;НУ;PART
+9478;35;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9479;36;как;КАК;CONJ;;+;к;а;к;;;;CONJ;КАК;CONJ
+9480;37;говорил;ГОВОРИТЬ;V tran ipf praet sg indic act m -;;+;л;и;р;о;в;о;V;ГОВОРИТЬ;V ipf praet sg indic m -
+9481;38;Чехов;ЧЕХОВ;S m anim nom sg famn;;+;в;о;х;е;ч;;S;ЧЕХОВ;S m anim nom sg
+9482;39;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9483;40;в;В;PR;;+;в;;;;;;PR;В;PR
+9484;41;человеке;ЧЕЛОВЕК;S m anim loc sg;;+;е;к;е;в;о;л;S;ЧЕЛОВЕК;S m anim loc sg
+9485;42;должно;ДОЛЖНО;PRAEDIC;;+;о;н;ж;л;о;д;ADV;ДОЛЖНО;ADV -
+9486;43;быть;БЫТЬ;V intr ipf - - inf act - -;;+;ь;т;ы;б;;;V;БЫТЬ;V ipf - - inf - -
+9487;44;всё;ВСЕ;SPRO n sg nom;;+;ё;с;в;;;;ADV;ВСЕ;ADV -
+9488;45;прекрасно;ПРЕКРАСНО;ADV -;;+;о;н;с;а;р;к;ADV;ПРЕКРАСНО;ADV -
+9489;46;-;-;PUNC;;+;;;;;;;PUNC;-;PUNC
+9490;47;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9491;48;лицо;ЛИЦО;S n inan nom sg;;+;о;ц;и;л;;;S;ЛИЦО;S n inan nom sg
+9492;49;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9493;50;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9494;51;одежда;ОДЕЖДА;S f inan nom sg;;+;а;д;ж;е;д;о;S;ОДЕЖДА;S f inan nom sg
+9495;52;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9496;53;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9497;54;что;ЧТО;SPRO n sg nom;;+;о;т;ч;;;;CONJ;ЧТО;CONJ
+9498;55;там;ТАМ;PART;;+;м;а;т;;;;ADV;ТАМ;ADV -
+9499;56;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9500;57;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9501;58;ум;УМ;S m inan acc sg;;+;м;у;;;;;S;УМ;S m inan acc sg
+9502;59;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9503;60;но;НО;CONJ;;+;о;н;;;;;CONJ;НО;CONJ
+9504;61;в;В;PR;;+;в;;;;;;PR;В;PR
+9505;62;артисте;АРТИСТ;S m anim loc sg;;+;е;т;с;и;т;р;S;АРТИСТ;S m anim loc sg
+9506;63;должно;ДОЛЖНО;PRAEDIC;;+;о;н;ж;л;о;д;ADV;ДОЛЖНО;ADV -
+9507;64;быть;БЫТЬ;V intr ipf - - inf act - -;;+;ь;т;ы;б;;;V;БЫТЬ;V ipf - - inf - -
+9508;65;это;ЭТО;SPRO n sg nom;;+;о;т;э;;;;S;ЭТО;S n - nom sg
+9509;66;втройне;ВТРОЙНЕ;ADV -;;+;е;н;й;о;р;т;ADV;ВТРОЙНЕ;ADV -
+9510;67;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9511;68;в;В;PR;;+;в;;;;;;PR;В;PR
+9512;69;десять;ДЕСЯТЬ;NUM acc - -;;+;ь;т;я;с;е;д;NUM;ДЕСЯТЬ;NUM acc - -
+9513;70;раз;РАЗ;S m inan gen sg;;+;з;а;р;;;;S;РАЗ;S m inan acc sg
+9514;71;всё;ВСЕ;SPRO n sg nom;;+;ё;с;в;;;;ADV;ВСЕ;ADV -
+9515;72;качественнее;КАЧЕСТВЕННЫЙ;A comp - - plen - -;;+;е;е;н;н;е;в;A;КАЧЕСТВЕННЫЙ;A comp - - plen - -
+9516;73;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9517;74;лучше;ХОРОШО;ADV comp;;+;е;ш;ч;у;л;;ADV;ХОРОШО;ADV comp
+9518;75;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9519;76;потому что;потому что;ZERO;;+;о;т;ч; ;у;м;ZERO;потому что;ZERO
+9520;77;мы;МЫ;SPRO pl 1p - nom;;+;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+9521;78;на;НА;PR;;+;а;н;;;;;PR;НА;PR
+9522;79;них;ОНИ;SPRO pl - - acc 3p;;+;х;и;н;;;;SPRO;ОНИ;SPRO pl - - loc
+9523;80;смотрим;СМОТРЕТЬ;V tran ipf praes pl indic act - 1p;;+;м;и;р;т;о;м;V;СМОТРЕТЬ;V ipf praes pl indic - 1p
+9524;81;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9525;82;мы;МЫ;SPRO pl 1p - nom;;+;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+9526;83;на;НА;PR;;+;а;н;;;;;PR;НА;PR
+9527;84;них;ОНИ;SPRO pl - - acc 3p;;+;х;и;н;;;;SPRO;ОНИ;SPRO pl - - loc
+9528;85;хотим;ХОТЕТЬ;V tran ipf praes pl indic act - 1p;;+;м;и;т;о;х;;V;ХОТЕТЬ;V ipf praes pl indic - 1p
+9529;86;равняться;РАВНЯТЬСЯ;V intr ipf - - inf med - -;;+;я;с;ь;т;я;н;V;РАВНЯТЬСЯ;V ipf - - inf - -
+9530;87;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9531;88;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9532;89;мы;МЫ;SPRO pl 1p - nom;;+;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+9533;90;думаем;ДУМАТЬ;V intr ipf praes pl indic act - 1p;;+;м;е;а;м;у;д;V;ДУМАТЬ;V ipf praes pl indic - 1p
+9534;91;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9535;92;что;ЧТО;CONJ;;+;о;т;ч;;;;CONJ;ЧТО;CONJ
+9536;93;да;ДА;PART;;+;а;д;;;;;CONJ;ДА;CONJ
+9537;94;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9538;95;вот;ВОТ;PART;;+;т;о;в;;;;PART;ВОТ;PART
+9539;96;то;ТО;SPRO n sg nom;;+;о;т;;;;;S;ТО;S n inan acc sg
+9540;97;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9541;98;что;ЧТО;CONJ;;+;о;т;ч;;;;CONJ;ЧТО;CONJ
+9542;99;они;ОНИ;SPRO pl - - nom 3p;;+;и;н;о;;;;SPRO;ОНИ;SPRO pl - - nom
+9543;100;показывают;ПОКАЗЫВАТЬ;V tran ipf praes pl indic act - 3p;;+;т;ю;а;в;ы;з;V;ПОКАЗЫВАТЬ;V ipf praes pl indic - 3p
+9544;101;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9545;102;вот;ВОТ;PART;;+;т;о;в;;;;PART;ВОТ;PART
+9546;103;это;ЭТО;PART;;+;о;т;э;;;;S;ЭТО;S n - nom sg
+9547;104;правда;ПРАВДА;S f sg nom;;+;а;д;в;а;р;п;ADV;ПРАВДА;ADV -
+9548;105;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9549;106;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9550;107;они;ОНИ;SPRO pl - - nom 3p;;+;и;н;о;;;;SPRO;ОНИ;SPRO pl - - nom
+9551;108;же;ЖЕ;PART;;+;е;ж;;;;;PART;ЖЕ;PART
+9552;109;обращаются;ОБРАЩАТЬСЯ;V intr ipf praes pl indic med - 3p;;+;я;с;т;ю;а;щ;V;ОБРАЩАТЬСЯ;V ipf praes pl indic - 3p
+9553;110;к;К;PR;;+;к;;;;;;PR;К;PR
+9554;111;нам;МЫ;SPRO pl 1p - dat;;+;м;а;н;;;;SPRO;МЫ;SPRO pl 1p - dat
+9555;112;с;С;PR;;+;с;;;;;;PR;С;PR
+9556;113;экрана;ЭКРАН;S m inan gen sg;;+;а;н;а;р;к;э;S;ЭКРАН;S m inan gen sg
+9557;114;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9558;;;;;;+;;;;;;;;;
+9559;1;А;А;CONJ;;+;а;;;;;;CONJ;А;CONJ
+9560;2;этого;ЭТОГО;SPRO m sg gen;;+;о;г;о;т;э;;S;ЭТО;S n - gen sg
+9561;3;не;НЕ;PART;;+;е;н;;;;;PART;НЕ;PART
+9562;4;происходит;ПРОИСХОДИТЬ;V intr ipf praes sg indic act - 3p;;+;т;и;д;о;х;с;V;ПРОИСХОДИТЬ;V ipf praes sg indic - 3p
+9563;5;в;В;PR;;+;в;;;;;;PR;В;PR
+9564;6;фильмах;ФИЛЬМ;S m inan loc pl;;+;х;а;м;ь;л;и;S;ФИЛЬМ;S m inan loc pl
+9565;7;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9566;8;которые;КОТОРЫЙ;APRO pl loc;;+;е;ы;р;о;т;о;A;КОТОРЫЙ;A - nom pl plen - -
+9567;9;показывают;ПОКАЗЫВАТЬ;V tran ipf praes pl indic act - 3p;;+;т;ю;а;в;ы;з;V;ПОКАЗЫВАТЬ;V ipf praes pl indic - 3p
+9568;10;сейчас;СЕЙЧАС;ADV -;;+;с;а;ч;й;е;с;ADV;СЕЙЧАС;ADV -
+9569;11;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9570;;;;;;+;;;;;;;;;
+9571;1;Ну;НУ;INTJ;;+;у;н;;;;;PART;НУ;PART
+9572;2;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9573;3;очень;ОЧЕНЬ;ADV -;;+;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+9574;4;жаль;ЖАЛЬ;PRAEDIC;;+;ь;л;а;ж;;;ADV;ЖАЛЬ;ADV -
+9575;5;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9576;6;что;ЧТО;CONJ;;+;о;т;ч;;;;CONJ;ЧТО;CONJ
+9577;7;так;ТАК;ADVPRO;;+;к;а;т;;;;ADV;ТАК;ADV -
+9578;8;происходит;ПРОИСХОДИТЬ;V intr ipf praes sg indic act - 3p;;+;т;и;д;о;х;с;V;ПРОИСХОДИТЬ;V ipf praes sg indic - 3p
+9579;9;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9580;;;;;;+;;;;;;;;;
+9581;1;Ну;НУ;INTJ;;+;у;н;;;;;PART;НУ;PART
+9582;2;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9583;3;в;В;PARENTH;слитно;+;в;;;;;;PR;В;PR
+9584;4;общем;ОБЩИЙ;PARENTH;слитно;+;м;е;щ;б;о;;A;ОБЩИЙ;A - loc sg plen m -
+9585;5;-;-;PUNC;;+;;;;;;;PUNC;-;PUNC
+9586;6;то;ТО;PART;;+;о;т;;;;;CONJ;ТО;CONJ
+9587;7;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9588;8;тема;ТЕМА;S f inan nom sg;;+;а;м;е;т;;;S;ТЕМА;S f inan nom sg
+9589;9;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9590;10;конечно;КОНЕЧНО;PARENTH;;+;о;н;ч;е;н;о;ADV;КОНЕЧНО;ADV -
+9591;11;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9592;12;печальная;ПЕЧАЛЬНЫЙ;A - nom sg plen f -;;+;я;а;н;ь;л;а;A;ПЕЧАЛЬНЫЙ;A - nom sg plen f -
+9593;13;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9594;14;но;НО;CONJ;;+;о;н;;;;;CONJ;НО;CONJ
+9595;15;сейчас;СЕЙЧАС;ADV -;;+;с;а;ч;й;е;с;ADV;СЕЙЧАС;ADV -
+9596;16;я;Я;SPRO sg 1p - nom;;+;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+9597;17;нашла;НАЙТИ;V tran pf praet sg indic act f -;;+;а;л;ш;а;н;;V;НАЙТИ;V pf praet sg indic f -
+9598;18;себя;СЕБЯ;SPRO - - - acc;;+;я;б;е;с;;;SPRO;СЕБЯ;SPRO - - - acc
+9599;19;в;В;PR;;+;в;;;;;;PR;В;PR
+9600;20;том;ТО;SPRO n sg loc;;+;м;о;т;;;;S;ТО;S n - loc sg
+9601;21;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9602;22;что;ЧТО;CONJ;;+;о;т;ч;;;;CONJ;ЧТО;CONJ
+9603;23;я;Я;SPRO sg 1p - nom;;+;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+9604;24;смотрю;СМОТРЕТЬ;V tran ipf praes sg indic act - 1p;;+;ю;р;т;о;м;с;V;СМОТРЕТЬ;V ipf praes sg indic - 1p
+9605;25;старые;СТАРЫЙ;A - acc pl plen - inan;;+;е;ы;р;а;т;с;A;СТАРЫЙ;A - acc pl plen - inan
+9606;26;фильмы;ФИЛЬМ;S m inan acc pl;;+;ы;м;ь;л;и;ф;S;ФИЛЬМ;S m inan acc pl
+9607;27;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9608;28;их;ОНИ;SPRO pl - - acc;;+;х;и;;;;;SPRO;ОНИ;SPRO pl - - acc
+9609;29;показывают;ПОКАЗЫВАТЬ;V tran ipf praes pl indic act - 3p;;+;т;ю;а;в;ы;з;V;ПОКАЗЫВАТЬ;V ipf praes pl indic - 3p
+9610;30;по;ПО;PR;;+;о;п;;;;;PR;ПО;PR
+9611;31;некоторым;НЕКОТОРЫЙ;A - dat pl plen - -;;+;м;ы;р;о;т;о;A;НЕКОТОРЫЙ;A - dat pl plen - -
+9612;32;каналам;КАНАЛ;S m inan dat pl;;+;м;а;л;а;н;а;S;КАНАЛ;S m inan dat pl
+9613;33;на;НА;PR;;+;а;н;;;;;PR;НА;PR
+9614;34;телевидении;ТЕЛЕВИДЕНИЕ;S n inan loc sg;;+;и;и;н;е;д;и;S;ТЕЛЕВИДЕНИЕ;S n inan loc sg
+9615;35;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9616;36;да;ДА;CONJ;;+;а;д;;;;;CONJ;ДА;CONJ
+9617;37;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9618;38;я;Я;SPRO sg 1p - nom;;+;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+9619;39;могу;МОЧЬ;V intr ipf praes sg indic act - 1p;;+;у;г;о;м;;;V;МОЧЬ;V ipf praes sg indic - 1p
+9620;40;сказать;СКАЗАТЬ;V pf - - inf - -;;+;ь;т;а;з;а;к;V;СКАЗАТЬ;V pf - - inf - -
+9621;41;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9622;42;что;ЧТО;CONJ;;+;о;т;ч;;;;CONJ;ЧТО;CONJ
+9623;43;вот;ВОТ;PART;;+;т;о;в;;;;PART;ВОТ;PART
+9624;44;всё;ВСЕ;S n - nom sg;;+;ё;с;в;;;;S;ВСЕ;S n - nom sg
+9625;45;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9626;46;что;ЧТО;CONJ;;+;о;т;ч;;;;CONJ;ЧТО;CONJ
+9627;47;я;Я;SPRO sg 1p - nom;;+;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+9628;48;говорила;ГОВОРИТЬ;V ipf praet sg indic f -;;+;а;л;и;р;о;в;V;ГОВОРИТЬ;V ipf praet sg indic f -
+9629;49;о;О;PR;;+;о;;;;;;PR;О;PR
+9630;50;тех;ТОТ;A - loc pl plen - -;;+;х;е;т;;;;A;ТОТ;A - loc pl plen - -
+9631;51;фильмах;ФИЛЬМ;S m inan loc pl;;+;х;а;м;ь;л;и;S;ФИЛЬМ;S m inan loc pl
+9632;52;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9633;53;я;Я;SPRO sg 1p - nom;;+;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+9634;54;могу;МОЧЬ;V ipf praes sg indic - 1p;;+;у;г;о;м;;;V;МОЧЬ;V ipf praes sg indic - 1p
+9635;55;сказать;СКАЗАТЬ;V tran pf - - inf act - -;;+;ь;т;а;з;а;к;V;СКАЗАТЬ;V pf - - inf - -
+9636;56;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9637;57;сейчас;СЕЙЧАС;ADV -;;+;с;а;ч;й;е;с;ADV;СЕЙЧАС;ADV -
+9638;58;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9639;;;;;;+;;;;;;;;;
+9640;1;По-другому;ПО-ДРУГОМУ;ADV -;;+;у;м;о;г;у;р;ADV;ПО-ДРУГОМУ;ADV -
+9641;2;снимались;СНИМАТЬСЯ;V intr ipf praet pl indic med - -;;+;ь;с;и;л;а;м;V;СНИМАТЬСЯ;V ipf praet pl indic - -
+9642;3;они;ОНИ;SPRO pl - - nom 3p;;+;и;н;о;;;;SPRO;ОНИ;SPRO pl - - nom
+9643;4;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9644;5;мы;МЫ;SPRO pl 1p - nom;;+;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+9645;6;видели;ВИДЕТЬ;V tran ipf praet pl indic act - -;;+;и;л;е;д;и;в;V;ВИДЕТЬ;V ipf praet pl indic - -
+9646;7;красивое;КРАСИВЫЙ;A - acc sg plen n inan;;+;е;о;в;и;с;а;A;КРАСИВЫЙ;A - acc sg plen n inan
+9647;8;с;С;PR;;+;с;;;;;;PR;С;PR
+9648;9;экрана;ЭКРАН;S m inan gen sg;;+;а;н;а;р;к;э;S;ЭКРАН;S m inan gen sg
+9649;10;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9650;11;хотя;ХОТЯ;CONJ;;+;я;т;о;х;;;CONJ;ХОТЯ;CONJ
+9651;12;время;ВРЕМЯ;S n inan acc sg;;+;я;м;е;р;в;;S;ВРЕМЯ;S n inan acc sg
+9652;13;было;БЫТЬ;V intr ipf praet sg indic act n -;;+;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+9653;14;тяжёлое;ТЯЖЕЛЫЙ;A - nom sg plen n -;;+;е;о;л;ё;ж;я;A;ТЯЖЕЛЫЙ;A - nom sg plen n -
+9654;15;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9655;;;;;;+;;;;;;;;;
+9656;1;А;А;CONJ;;+;а;;;;;;CONJ;А;CONJ
+9657;2;сейчас;СЕЙЧАС;ADV -;;+;с;а;ч;й;е;с;ADV;СЕЙЧАС;ADV -
+9658;3;всё;ВСЕ;SPRO sg n nom;;+;ё;с;в;;;;ADV;ВСЕ;ADV -
+9659;4;наоборот;НАОБОРОТ;ADV -;;+;т;о;р;о;б;о;ADV;НАОБОРОТ;ADV -
+9660;5;:;:;PUNC;;+;;;;;;;PUNC;:;PUNC
+9661;6;мы;МЫ;SPRO pl 1p - nom;;+;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+9662;7;видим;ВИДЕТЬ;V tran ipf praes pl indic act - 1p;;+;м;и;д;и;в;;V;ВИДЕТЬ;V ipf praes pl indic - 1p
+9663;8;красивые;КРАСИВЫЙ;A - acc pl plen - inan;;+;е;ы;в;и;с;а;A;КРАСИВЫЙ;A - acc pl plen - inan
+9664;9;интерьеры;ИНТЕРЬЕР;S m inan acc pl;;+;ы;р;е;ь;р;е;S;ИНТЕРЬЕР;S m inan acc pl
+9665;10;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9666;11;мы;МЫ;SPRO pl 1p - nom;;+;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+9667;12;видим;ВИДЕТЬ;V tran ipf praes pl indic act - 1p;;+;м;и;д;и;в;;V;ВИДЕТЬ;V ipf praes pl indic - 1p
+9668;13;многоэтажные;МНОГОЭТАЖНЫЙ;A - acc pl plen - -;;+;е;ы;н;ж;а;т;A;МНОГОЭТАЖНЫЙ;A - nom pl plen - -
+9669;14;особняки;ОСОБНЯК;S m inan acc pl;;+;и;к;я;н;б;о;S;ОСОБНЯК;S m inan nom pl
+9670;15;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9671;16;но;НО;CONJ;;+;о;н;;;;;CONJ;НО;CONJ
+9672;17;мы;МЫ;SPRO pl 1p - nom;;+;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+9673;18;не;НЕ;PART;;+;е;н;;;;;PART;НЕ;PART
+9674;19;видим;ВИДЕТЬ;V tran ipf praes pl indic act - 1p;;+;м;и;д;и;в;;V;ВИДЕТЬ;V ipf praes pl indic - 1p
+9675;20;красоту;КРАСОТА;S f inan acc sg;;+;у;т;о;с;а;р;S;КРАСОТА;S f inan acc sg
+9676;21;души;ДУША;S f inan gen sg;;+;и;ш;у;д;;;S;ДУША;S f inan gen sg
+9677;22;человека;ЧЕЛОВЕК;S m anim gen sg;;+;а;к;е;в;о;л;S;ЧЕЛОВЕК;S m anim gen sg
+9678;23;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9679;;;;;;+;;;;;;;;;
+9680;1;Смотришь;СМОТРЕТЬ;V tran ipf praes sg indic act - 2p;;+;ь;ш;и;р;т;о;V;СМОТРЕТЬ;V ipf praes sg indic - 2p
+9681;2;иногда;ИНОГДА;ADV -;;+;а;д;г;о;н;и;ADV;ИНОГДА;ADV -
+9682;3;сериал;СЕРИАЛ;S m inan acc sg;;+;л;а;и;р;е;с;S;СЕРИАЛ;S m inan acc sg
+9683;4;какой;КАКОЙ;APRO m sg acc;слитно;+;й;о;к;а;к;;A;КАКОЙ;A - gen sg plen f -
+9684;5;-;-;PUNC;слитно;+;;;;;;;PUNC;-;PUNC
+9685;6;нить;НИБУДЬ;APRO m sg acc;distort;+;ь;т;и;н;;;S;НИТЬ;S f inan nom sg
+9686;7;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9687;8;думаешь;ДУМАТЬ;V intr ipf praes sg indic act - 2p;;+;ь;ш;е;а;м;у;V;ДУМАТЬ;V ipf praes sg indic - 2p
+9688;9;:;:;PUNC;;+;;;;;;;PUNC;:;PUNC
+9689;10;боже;БОЖЕ;S m anim voc sg;;+;е;ж;о;б;;;S;БОЖЕ;S m anim voc sg
+9690;11;ж;Ж;PART;;+;ж;;;;;;PART;Ж;PART
+9691;12;ты;ТЫ;SPRO sg 2p - nom;;+;ы;т;;;;;SPRO;ТЫ;SPRO sg 2p - nom
+9692;13;мой;МОЙ;A - nom sg plen m -;;+;й;о;м;;;;A;МОЙ;A - nom sg plen m -
+9693;14;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9694;15;у;У;PR;;+;у;;;;;;PR;У;PR
+9695;16;людей;ЧЕЛОВЕК;S m anim gen pl;;+;й;е;д;ю;л;;S;ЧЕЛОВЕК;S m anim gen pl
+9696;17;голод;ГОЛОД;S m inan nom sg;;+;д;о;л;о;г;;S;ГОЛОД;S m inan nom sg
+9697;18;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9698;19;а;А;CONJ;;+;а;;;;;;CONJ;А;CONJ
+9699;20;они;ОНИ;SPRO pl - - nom 3p;;+;и;н;о;;;;SPRO;ОНИ;SPRO pl - - nom
+9700;21;нам;МЫ;SPRO pl 1p - dat;;+;м;а;н;;;;SPRO;МЫ;SPRO pl 1p - dat
+9701;22;показывают;ПОКАЗЫВАТЬ;V tran ipf praes pl indic act - 3p;;+;т;ю;а;в;ы;з;V;ПОКАЗЫВАТЬ;V ipf praes pl indic - 3p
+9702;23;золотые;ЗОЛОТОЙ;A - acc pl plen - inan;;+;е;ы;т;о;л;о;A;ЗОЛОТОЙ;A - acc pl plen - inan
+9703;24;унитазы;УНИТАЗ;S m inan acc pl;;+;ы;з;а;т;и;н;S;УНИТАЗ;S m inan acc pl
+9704;25;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9705;;;;;;+;;;;;;;;;
+9706;1;И;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9707;2;что;ЧТО;SPRO n sg nom;;+;о;т;ч;;;;S;ЧТО;S n - nom sg
+9708;3;?;?;SENT;;+;;;;;;;SENT;?;SENT
+9709;;;;;;+;;;;;;;;;
+9710;1;Раньше;РАНО;ADV comp;;+;е;ш;ь;н;а;р;ADV;РАНО;ADV comp
+9711;2;мы;МЫ;SPRO pl 1p - nom;;+;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+9712;3;тоже;ТОЖЕ;PART;;+;е;ж;о;т;;;PART;ТОЖЕ;PART
+9713;4;жили;ЖИТЬ;V intr ipf praet pl indic act - -;;+;и;л;и;ж;;;V;ЖИТЬ;V ipf praet pl indic - -
+9714;5;не;НЕ;PART;;+;е;н;;;;;PART;НЕ;PART
+9715;6;очень;ОЧЕНЬ;ADV -;;+;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+9716;7;-;-;PUNC;;+;;;;;;;PUNC;-;PUNC
+9717;8;то;ТО;CONJ;;+;о;т;;;;;CONJ;ТО;CONJ
+9718;9;богато;БОГАТО;ADV -;;+;о;т;а;г;о;б;ADV;БОГАТО;ADV -
+9719;10;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9720;11;но;НО;CONJ;;+;о;н;;;;;CONJ;НО;CONJ
+9721;12;интерьеры;ИНТЕРЬЕР;S m inan nom pl;;+;ы;р;е;ь;р;е;S;ИНТЕРЬЕР;S m inan acc pl
+9722;13;были;БЫТЬ;V intr ipf praet pl indic act -;;+;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic - -
+9723;14;в;В;PR;;+;в;;;;;;PR;В;PR
+9724;15;спектаклях;СПЕКТАКЛЬ;S m inan loc pl;;+;х;я;л;к;а;т;S;СПЕКТАКЛЬ;S m inan loc pl
+9725;16;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9726;17;в;В;PR;;+;в;;;;;;PR;В;PR
+9727;18;фильмах;ФИЛЬМ;S m inan loc pl;;+;х;а;м;ь;л;и;S;ФИЛЬМ;S m inan loc pl
+9728;19;неплохие;НЕПЛОХОЙ;A - acc pl plen - inan;;+;е;и;х;о;л;п;A;НЕПЛОХОЙ;A - acc pl plen - inan
+9729;20;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9730;21;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9731;22;платья;ПЛАТЬЕ;S n inan gen sg;;+;я;ь;т;а;л;п;S;ПЛАТЬЕ;S n inan gen sg
+9732;23;были;БЫТЬ;V intr ipf praet pl indic act -;;+;и;л;ы;б;;;V;БЫТЬ;V ipf praet pl indic - -
+9733;24;шикарные;ШИКАРНЫЙ;A - nom pl plen - -;;+;е;ы;н;р;а;к;A;ШИКАРНЫЙ;A - nom pl plen - -
+9734;25;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9735;26;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9736;27;классику;КЛАССИКА;S f inan acc sg;;+;у;к;и;с;с;а;S;КЛАССИКА;S f inan acc sg
+9737;28;снимали;СНИМАТЬ;V tran ipf praet pl indic act - -;;+;и;л;а;м;и;н;V;СНИМАТЬ;V ipf praet pl indic - -
+9738;29;чаще;ЧАСТО;ADV comp;;+;е;щ;а;ч;;;ADV;ЧАСТО;ADV comp
+9739;30;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9740;31;несли;НЕСТИ;V tran ipf praet pl indic act - -;;+;и;л;с;е;н;;V;НЕСТИ;V ipf praet pl indic - -
+9741;32;в;В;PR;;+;в;;;;;;PR;В;PR
+9742;33;массы;МАССА;S f inan acc sg;;+;ы;с;с;а;м;;S;МАССА;S f inan gen sg
+9743;34;прекрасное;ПРЕКРАСНЫЙ;S n sg acc;;+;е;о;н;с;а;р;A;ПРЕКРАСНЫЙ;A - nom sg plen n -
+9744;35;в;В;PR;;+;в;;;;;;PR;В;PR
+9745;36;полном;ПОЛНЫЙ;A - loc sg plen m -;;+;м;о;н;л;о;п;A;ПОЛНЫЙ;A - loc sg plen m -
+9746;37;смысле;СМЫСЛ;S m inan loc sg;;+;е;л;с;ы;м;с;S;СМЫСЛ;S m inan loc sg
+9747;38;слова;СЛОВО;S n inan gen sg;;+;а;в;о;л;с;;S;СЛОВО;S n inan gen sg
+9748;39;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9749;;;;;;+;;;;;;;;;
+9750;1;Смотришь;СМОТРЕТЬ;V tran ipf praes sg indic act - 2p;;+;ь;ш;и;р;т;о;V;СМОТРЕТЬ;V ipf praes sg indic - 2p
+9751;2;сейчас;СЕЙЧАС;ADV -;;+;с;а;ч;й;е;с;ADV;СЕЙЧАС;ADV -
+9752;3;эти;ЭТОТ;APRO pl acc;;+;и;т;э;;;;A;ЭТОТ;A - nom pl plen - -
+9753;4;фильмы;ФИЛЬМ;S m inan acc pl;;+;ы;м;ь;л;и;ф;S;ФИЛЬМ;S m inan nom pl
+9754;5;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9755;6;думаешь;ДУМАТЬ;V intr ipf praes sg indic act - 2p;;+;ь;ш;е;а;м;у;V;ДУМАТЬ;V ipf praes sg indic - 2p
+9756;7;:;:;PUNC;;+;;;;;;;PUNC;:;PUNC
+9757;8;боже;БОЖЕ;S m anim voc sg;;+;е;ж;о;б;;;S;БОЖЕ;S m anim voc sg
+9758;9;ж;Ж;PART;;+;ж;;;;;;PART;Ж;PART
+9759;10;ты;ТЫ;SPRO sg 2p - nom;;+;ы;т;;;;;SPRO;ТЫ;SPRO sg 2p - nom
+9760;11;мой;МОЙ;A - nom sg plen m -;;+;й;о;м;;;;A;МОЙ;A - nom sg plen m -
+9761;12;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9762;13;как;КАК;CONJ;;+;к;а;к;;;;CONJ;КАК;CONJ
+9763;14;они;ОНИ;SPRO pl - - nom 3p;;+;и;н;о;;;;SPRO;ОНИ;SPRO pl - - nom
+9764;15;могли;МОЧЬ;V intr ipf praet pl indic act - -;;+;и;л;г;о;м;;V;МОЧЬ;V ipf praet pl indic - -
+9765;16;тогда;ТОГДА;ADV -;;+;а;д;г;о;т;;ADV;ТОГДА;ADV -
+9766;17;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9767;18;при;ПРИ;PR;;+;и;р;п;;;;PR;ПРИ;PR
+9768;19;такой;ТАКОЙ;A - loc sg plen f -;;+;й;о;к;а;т;;A;ТАКОЙ;A - loc sg plen f -
+9769;20;нищете;НИЩЕТА;S f inan loc sg;;+;е;т;е;щ;и;н;S;НИЩЕТА;S f inan loc sg
+9770;21;общей;ОБЩИЙ;A - loc sg plen f -;;+;й;е;щ;б;о;;A;ОБЩИЙ;A - gen sg plen f -
+9771;22;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9772;23;всеобщей;ВСЕОБЩИЙ;A - loc sg plen f -;;+;й;е;щ;б;о;е;A;ВСЕОБЩИЙ;A - gen sg plen f -
+9773;24;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9774;25;снимать;СНИМАТЬ;V tran ipf - - inf act - -;;+;ь;т;а;м;и;н;V;СНИМАТЬ;V ipf - - inf - -
+9775;26;такие;ТАКОЙ;A - acc pl plen - -;;+;е;и;к;а;т;;A;ТАКОЙ;A - nom pl plen - -
+9776;27;фильмы;ФИЛЬМ;S m inan acc pl;;+;ы;м;ь;л;и;ф;S;ФИЛЬМ;S m inan nom pl
+9777;28;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9778;29;с;С;PR;;+;с;;;;;;PR;С;PR
+9779;30;шикарными;ШИКАРНЫЙ;A - ins pl plen - -;;+;и;м;ы;н;р;а;A;ШИКАРНЫЙ;A - ins pl plen - -
+9780;31;платьями;ПЛАТЬЕ;S n inan ins pl;;+;и;м;я;ь;т;а;S;ПЛАТЬЕ;S n inan ins pl
+9781;32;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9782;33;с;С;PR;;+;с;;;;;;PR;С;PR
+9783;34;-;-;PUNC;;+;;;;;;;PUNC;-;PUNC
+9784;35;с;С;PR;;+;с;;;;;;PR;С;PR
+9785;36;шикарными;ШИКАРНЫЙ;A - ins pl plen - -;;+;и;м;ы;н;р;а;A;ШИКАРНЫЙ;A - ins pl plen - -
+9786;37;гримами;ГРИМ;S f inan ins pl;;+;и;м;а;м;и;р;S;ГРИМ;S f inan ins pl
+9787;38;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9788;;;;;;+;;;;;;;;;
+9789;1;Ну;НУ;INTJ;;+;у;н;;;;;PART;НУ;PART
+9790;2;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9791;3;да;ДА;PART;;+;а;д;;;;;PART;ДА;PART
+9792;4;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9793;5;вот;ВОТ;PART;;+;т;о;в;;;;PART;ВОТ;PART
+9794;6;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9795;7;наверное;НАВЕРНОЕ;ADV -;;+;е;о;н;р;е;в;ADV;НАВЕРНОЕ;ADV -
+9796;8;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9797;9;наше;НАШ;A - nom sg plen n -;;+;е;ш;а;н;;;A;НАШ;A - nom sg plen n -
+9798;10;общество;ОБЩЕСТВО;S n inan nom sg;;+;о;в;т;с;е;щ;S;ОБЩЕСТВО;S n inan nom sg
+9799;11;начинает;НАЧИНАТЬ;V tran ipf praes sg indic act - 3p;;+;т;е;а;н;и;ч;V;НАЧИНАТЬ;V ipf praes sg indic - 3p
+9800;12;деградировать;ДЕГРАДИРОВАТЬ;V intr ipf - - inf act - -;;+;ь;т;а;в;о;р;V;ДЕГРАДИРОВАТЬ;V ipf - - inf - -
+9801;13;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9802;14;регресс;РЕГРЕСС;S m inan acc sg;;+;с;с;е;р;г;е;S;РЕГРЕСС;S m inan acc sg
+9803;15;начинается;НАЧИНАТЬСЯ;V intr ipf praes sg indic med - 3p;;+;я;с;т;е;а;н;V;НАЧИНАТЬСЯ;V ipf praes sg indic - 3p
+9804;16;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9805;;;;;;+;;;;;;;;;
+9806;1;Лучшее;ЛУЧШИЙ;A supr nom sg plen n -;;+;е;е;ш;ч;у;л;A;ЛУЧШИЙ;A supr nom sg plen n -
+9807;2;враг;ВРАГ;S m anim nom sg;;+;г;а;р;в;;;S;ВРАГ;S m anim nom sg
+9808;3;хорошего;ХОРОШИЙ;A - gen sg plen n -;;+;о;г;е;ш;о;р;A;ХОРОШИЙ;A - gen sg plen n -
+9809;4;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9810;;;;;;+;;;;;;;;;
+9811;1;Ну;НУ;INTJ;;+;у;н;;;;;PART;НУ;PART
+9812;2;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9813;3;можно;МОЖНО;ADV -;;+;о;н;ж;о;м;;ADV;МОЖНО;ADV -
+9814;4;завершить;ЗАВЕРШИТЬ;V tran pf - - inf act - -;;+;ь;т;и;ш;р;е;V;ЗАВЕРШИТЬ;V pf - - inf - -
+9815;5;всё;ВЕСЬ;SPRO n sg acc;;+;ё;с;в;;;;A;ВЕСЬ;A - nom pl plen - -
+9816;6;это;ЭТО;SPRO n sg acc;;+;о;т;э;;;;S;ЭТО;S n - nom sg
+9817;7;тем;ТО;SPRO n sg ins;;+;м;е;т;;;;S;ТО;S n - ins sg
+9818;8;,;,;PUNC;;+;;;;;;;PUNC;,;PUNC
+9819;9;что;ЧТО;CONJ;;+;о;т;ч;;;;CONJ;ЧТО;CONJ
+9820;10;я;Я;SPRO sg 1p - nom;;+;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+9821;11;и;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9822;12;сказала;СКАЗАТЬ;V tran pf praet sg indic act f -;;+;а;л;а;з;а;к;V;СКАЗАТЬ;V pf praet sg indic f -
+9823;13;:;:;PUNC;;+;;;;;;;PUNC;:;PUNC
+9824;14;регресс;РЕГРЕСС;S m inan nom sg;;+;с;с;е;р;г;е;S;РЕГРЕСС;S m inan acc sg
+9825;15;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9826;;;;;;+;;;;;;;;;
+9827;1;Жаль;ЖАЛЬ;PRAEDIC;;+;ь;л;а;ж;;;ADV;ЖАЛЬ;ADV -
+9828;2;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9829;;;;;;+;;;;;;;;;
+9830;1;Даже;ДАЖЕ;PART;;+;е;ж;а;д;;;PART;ДАЖЕ;PART
+9831;2;смотреть;СМОТРЕТЬ;V tran ipf - - inf act - -;;+;ь;т;е;р;т;о;V;СМОТРЕТЬ;V ipf - - inf - -
+9832;3;нечего;НЕЧЕГО;PRAEDICPRO;;+;о;г;е;ч;е;н;ADV;НЕЧЕГО;ADV -
+9833;4;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9834;;;;;;+;;;;;;;;;
+9835;1;И;И;CONJ;;+;и;;;;;;CONJ;И;CONJ
+9836;2;человеку;ЧЕЛОВЕК;S m anim dat sg;;+;у;к;е;в;о;л;S;ЧЕЛОВЕК;S m anim dat sg
+9837;3;не;НЕ;PART;;+;е;н;;;;;PART;НЕ;PART
+9838;4;несет;НЕСТИ;V tran ipf praes sg indic act - 3p;;+;т;е;с;е;н;;V;НЕСТИ;V ipf praes sg indic - 3p
+9839;5;ничего;НИЧЕГО;ADV -;;+;о;г;е;ч;и;н;ADV;НИЧЕГО;ADV -
+9840;6;это;ЭТО;SPRO n sg acc;;+;о;т;э;;;;S;ЭТО;S n - nom sg
+9841;7;.;.;SENT;;+;;;;;;;SENT;.;SENT
+9842;;;;;;+;;;;;;;;;
+9843;1;Просто;ПРОСТО;PART;;+;о;т;с;о;р;п;PART;ПРОСТО;PART
+9844;2;эфирное;ЭФИРНЫЙ;A - nom sg plen n inan;;+;е;о;н;р;и;ф;A;ЭФИРНЫЙ;A - acc sg plen n inan
+9845;3;время;ВРЕМЯ;S n inan nom sg;;+;я;м;е;р;в;;S;ВРЕМЯ;S n inan acc sg
+9846;4;занято;ЗАНЯТЫЙ;A - - sg brev n -;;+;о;т;я;н;а;з;A;ЗАНЯТЫЙ;A - - sg brev n -
+9847;5;непонятно;НЕПОНЯТНО;ADV -;;+;о;н;т;я;н;о;ADV;НЕПОНЯТНО;ADV -
+9848;6;чем;ЧЕМ;SPRO n sg ins 3p;;+;м;е;ч;;;;CONJ;ЧЕМ;CONJ
+9849;7;.;.;SENT;;+;;;;;;;SENT;.;SENT
